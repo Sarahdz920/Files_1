@@ -1,0 +1,10 @@
+1698481714124:install.packages()
+1698481721594:install.packages();
+1698854089760:update.packages()
+1698854136070:library(markdown)
+1698854145336:library(bit)
+1698854163202:library(class, lib.loc = "/usr/local/lib/R/library")
+1698854165555:library(classInt)
+1698854167626:library(cli)
+1698854230380:install.packages("markdown")
+1698855244324:print("And now it lives in GitHub")
